@@ -1,15 +1,12 @@
 # Few-Shot Diffusion Models (FSDM)
 
-
-Under Review
-
-* paper: `Few-Shot Diffusion Models`
+* paper: `Few-Shot Diffusion Models` - https://arxiv.org/abs/2205.15463
 
 ## Set the env
 ```python
 conda create -n fsdm python=3.6
 
-git clone https://github.com/submission-neurips22/few-shot-diffusion-models
+git clone https://github.com/georgosgeorgos/few-shot-diffusion-models
 
 cd few-shot-diffusion-models
 
